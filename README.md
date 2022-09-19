@@ -15,4 +15,8 @@ Growth mindset to me means that I should start any new project with the idea tha
 * I can always do better - Keep on trying to learn!
 * Challenge yourself - Try new things!
 
+
+## What I have learned - From Day to Day:
+* [Day 1 - Creating my first website!](exoticbutters00.github.io/reading-notes/Day-1)
+
 Follow me on my github: [ExoticButters00](https://github.com/ExoticButters00)
