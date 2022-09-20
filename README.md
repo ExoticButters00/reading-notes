@@ -1,7 +1,5 @@
 # Personal Reading Notes
 
-## My reading notes journal for Code Fellows
-
 ## Introduction
 
 My name is Thomas and I am excited for this journey into learning programming!
