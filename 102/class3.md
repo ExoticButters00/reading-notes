@@ -42,4 +42,34 @@
 
 * The CSS syntax for color will be `color: *color*|initial|inherit;` where **color** specifies the text color, **initial** sets the property to its default value, and **inherit** will inherit this property from its parent element.
 
+## Here is what I learned from reading assignment 6
+
+* **JavaScript** is a lightweight, interpreted, or just-in-time complied programming language with first-class functions.
+
+* Javascript follows the ECMAScript Language Specifications (ECMA-262) and the ECMAScript Internationalization API standards.
+
+* JavaScript and Java are two different languages.
+
+* There are three major parts of JavaScript: The language itself, the DOM API, and the server API provided by server-side systems.
+
+* You can use any text editor to write JavaScript.
+
+* You can either **embed** or **include** JavaScript code directly into the HTML file. You use the `<script></script>` opening and closing tags.
+
+* `alert()` will show a pop-up in the browser with the text that you include.
+
+* `document.write` changes what is shown.
+
+* `console.log` is what you can use to print out debugging information
+
+* `prompt()` will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in.
+
+* `confirm()` allows you to ask a yes/no question.
+
+* `var` is the container for storing data such as variables.
+
+* `let` declares what the variable is
+
+* `const` declares values that cannot be changed.
+
 [Go back to Home](../README.md)
