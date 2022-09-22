@@ -10,8 +10,10 @@ I enjoying gaming, I mainly play Call of Duty and Minecraft (where I enjoy playi
 
 ## Table of Contents
 
-[Class 1 Notes](102/class1.md)
+[Day 1 Notes](102/class1.md)
 
-[Class 2 Notes](102/class2.md)
+[Day 2 Notes](102/class2.md)
 
-[Class 3 Notes](102/class3.md)
+[Day 3 Notes](102/class3.md)
+
+[Day 4 Notes](102/class4.md)
